@@ -1,0 +1,14 @@
+# CMake and build directories
+/build/
+/.cmake/
+
+# Compiled binaries and object files
+*.o
+*.a
+*.so
+*.out
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
